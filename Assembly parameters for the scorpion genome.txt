@@ -1,0 +1,1 @@
+ Assembly parameters for the scorpion genomeFlye assembly step:flye --threads 48 --iterations 5 --pacbio-rawÊRatatosk pre-polishing step:Ratatosk -v -c 48 -q 9
